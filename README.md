@@ -1,6 +1,6 @@
 <div align="center">
 
-# ImGui Java
+# ImGui Java for macos ARM64
 
 **JNI based binding for [Dear ImGui](https://github.com/ocornut/imgui)**
 
